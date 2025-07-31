@@ -1,0 +1,5 @@
+The folder `/android-hello-world2/android-hello-world2/app/src/main/res/drawable-v24` is intended to contain drawable resources that are specific to API level 24 and above. Since you have not specified any drawable resources to include, I will create the folder and leave it empty.
+
+Here are the contents for the file:
+
+<!-- This file is intentionally left blank. -->
